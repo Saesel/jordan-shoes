@@ -17,7 +17,7 @@ Este projeto foi desenvolvido para o segundo desafio da comunidade **[Codelândi
 ---
 
 ## Demonstração
-[![Jordan Shoes](https://media.giphy.com/media/HDooAH4gfOj3YKpHe7/giphy.gif)](https://saesel.github.io/jordan-shoes/ "Clique para acessar o projeto")   
+[![Jordan Shoes](https://media.giphy.com/media/O4k6tIvjQwBlvTGzqM/giphy.gif)](https://saesel.github.io/jordan-shoes/ "Clique para acessar o projeto")   
 
 Você pode acessar o projeto **clicando no gif acima**.
 
